@@ -1,0 +1,23 @@
+Q: What is Forever?
+A: Forever is an online clothing store for Men, Women and Kids.
+
+Q: What categories do you sell?
+A: We sell clothes for Men, Women and Kids. Each category has Topwear, Bottomwear and Winterwear.
+
+Q: Which sizes are available?
+A: Sizes go from S to XXL. Each product has its own available sizes, shown on the product page. You must choose a size before adding a product to the cart.
+
+Q: How do I place an order?
+A: Open a product, choose a size and click Add to Cart. Open the Cart and click Proceed to Checkout. Fill in your delivery address, choose a payment method and click Place Order. You must be logged in to place an order.
+
+Q: Do I need an account?
+A: Yes, you need to log in to place an order. Your cart is saved to your account and you can see your past orders on the Orders page.
+
+Q: How can I contact customer support?
+A: Our support is available 24/7. Phone: (415) 555-0132. Email: admin@forever.com. Address: 54709 Willms Station, Suite 350, Washington, USA.
+
+Q: Can I cancel my order?
+A: You can cancel before the order is shipped by contacting support at admin@forever.com.
+
+Q: Can I change my delivery address after ordering?
+A: You can change the address before the order is shipped by contacting support at admin@forever.com.

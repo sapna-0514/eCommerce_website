@@ -1,0 +1,14 @@
+Q: Which payment methods do you accept?
+A: You can pay with Cash on Delivery (COD) or online with Razorpay. You choose the payment method on the Place Order page.
+
+Q: Is Cash on Delivery available?
+A: Yes. You pay when the order is delivered.
+
+Q: What can I use to pay online?
+A: Online payments are made through Razorpay.
+
+Q: Is online payment safe?
+A: Online payments are processed by Razorpay. We do not store your card details.
+
+Q: My payment failed. What should I do?
+A: Please try again. If money was deducted from your account, contact support at admin@forever.com with your order details.

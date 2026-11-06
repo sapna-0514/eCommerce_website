@@ -1,0 +1,17 @@
+Q: How much is the delivery fee?
+A: A flat delivery fee of $10 is added to every order. You can see it in the cart total before you pay.
+
+Q: How long does delivery take?
+A: For delivery time of your order, please contact support at admin@forever.com or call (415) 555-0132.
+
+Q: Which places do you deliver to?
+A: For delivery to your area, please contact support at admin@forever.com or call (415) 555-0132.
+
+Q: How can I track my order?
+A: Log in and open the Orders page. Press the Track Order button to refresh the status.
+
+Q: What do the order statuses mean?
+A: An order moves through these steps: Order Placed, Packing, Shipped, Out For Delivery, Delivered.
+
+Q: Is there free delivery?
+A: No. A flat $10 delivery fee applies to every order.
